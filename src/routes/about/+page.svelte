@@ -9,9 +9,7 @@
 
 <main>
 	<article>
-		<h1>Hello</h1>
-
-		<p>Hello, world!</p>
+		<h1>About me</h1>
 	</article>
 </main>
 
